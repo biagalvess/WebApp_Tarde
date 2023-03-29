@@ -4,7 +4,7 @@ namespace WebApp_Tarde.Controllers
 {
     public class Clientes : Controller
     {
-        public IActionResult Index()
+        public IActionResult Lista()
         {
             return View();
         }
